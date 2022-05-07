@@ -1,0 +1,20 @@
+add ejemplo kdb entities:
+  title: 'Create new Ejemplo kdb entities'
+
+administer ejemplo kdb entities:
+  title: 'Administer Ejemplo kdb entities'
+  description: 'Allow to access the administration form to configure Ejemplo kdb entities.'
+  restrict access: true
+
+delete ejemplo kdb entities:
+  title: 'Delete Ejemplo kdb entities'
+
+edit ejemplo kdb entities:
+  title: 'Edit Ejemplo kdb entities'
+
+view published ejemplo kdb entities:
+  title: 'View published Ejemplo kdb entities'
+
+view unpublished ejemplo kdb entities:
+  title: 'View unpublished Ejemplo kdb entities'
+
