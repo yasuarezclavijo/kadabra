@@ -37,8 +37,6 @@ use Drupal\Core\Entity\EntityTypeInterface;
  *   admin_permission = "administer ejemplo kdb entities",
  *   entity_keys = {
  *     "id" = "id",
- *     "dato_1" = "dato_1",
- *     "dato_2" = "dato_2",
  *     "label" = "label",
  *     "uuid" = "uuid",
  *     "published" = "status",
